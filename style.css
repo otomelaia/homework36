@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+*{box-sizing: border-box;}
+.box1 {
+    height: 289px;
+    background-color: black;
+}
